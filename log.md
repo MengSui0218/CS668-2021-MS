@@ -12,3 +12,10 @@
    1. deleted  Null records 
    2. glimpse of data file
 4. Planed on next plot outline
+
+
+## March 3
+### done
+1. delet null row under country, *agent*, *children*. I was thinking replace null value by mean or median, but this will make the original bias. They are number value, no support reason to replace them by mean or median. 
+2. change *arrival_date_month* to datetime
+3. plot booking demond by year/month/day category
