@@ -19,3 +19,5 @@
 1. delet null row under country, *agent*, *children*. I was thinking replace null value by mean or median, but this will make the original bias. They are number value, no support reason to replace them by mean or median. 
 2. change *arrival_date_month* to datetime
 3. plot booking demond by year/month/day category
+4. pie chart for country 
+5. It is difficult to mapping color and making color nice to see.
