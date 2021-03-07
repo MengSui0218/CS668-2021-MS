@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/usr/local/bin/python",
+    "python.pythonPath": "/Users/suimeng/opt/anaconda3/bin/python",
     "jupyter.jupyterServerType": "local",
     "jupyter.textOutputLimit": 0
 }
