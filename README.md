@@ -13,13 +13,13 @@ This dataset contains two hotels booking information, one of which is city hotel
 ### 3.1 EDA (Tableau)
 ### 3.2 Algorithms 
 * Decision Tree 
-* Naïve Bayes 
-* Support Vector Machine 
+* Logistical Regression
 * Random Forest 
 * Nearest Neighbor 
 ### 3.3 Machine Learning Training Iteration
-
+Decision Tree and Random Forest have the higest two accuracy rate on reservation canncellation predition. But after fune-turning, Decision Tree achieved the highest prediction accuracy rate. 
 
 
 ## 4. Result&Conclusion
-
+It is indeed that some reservations with some specifical attributes are more likely to cancel. 
+A more than 80% accuracy rate on predicting hotel reservation cancellation can be trained. 
