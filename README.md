@@ -9,11 +9,17 @@ The original data is from https://www.sciencedirect.com/science/article/pii/S235
 
 This dataset contains two hotels booking information, one of which is city hotel(79,330 records) while the other is resort hotel(40,060 records). Both hotel in datasets have the same data structure, including 31 variables describing each bookings. All booking information happened between the 1st of July of 2015 and the 31st of August 2017, and labeled by “cancelled” or “no cancelled”
 
-
 ## 3. Methodology
-* Algorithms 
+### 3.1 EDA (Tableau)
+### 3.2 Algorithms 
 * Decision Tree 
 * Naïve Bayes 
 * Support Vector Machine 
 * Random Forest 
 * Nearest Neighbor 
+### 3.3 Machine Learning Training Iteration
+
+
+
+## 4. Result&Conclusion
+
